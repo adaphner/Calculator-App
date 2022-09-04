@@ -1,5 +1,4 @@
-# Calculator-App
-Fully functional calculator.
+# Fully Functional Calculator App - JavaScript
 
 Perform basic calculations such as addition, subtraction, division, multiplication, and modulo operations.
 
